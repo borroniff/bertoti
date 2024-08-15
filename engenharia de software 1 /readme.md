@@ -49,3 +49,21 @@ Vantagem: Consistência e Qualidade. iOS oferece um ambiente mais controlado e u
 <br>
 <br>
 Desvantagem: Menos Flexibilidade. iOS é menos flexível em termos de personalização e configuração comparado ao Android. Os desenvolvedores têm menos liberdade para modificar a interface do usuário e acessar certas funcionalidades do sistema. Os usuários também têm opções limitadas para personalizar seus dispositivos, o que pode ser uma desvantagem para aqueles que preferem maior controle sobre suas experiências.
+
+------------------------------------------------------------------------------------------
+
+**Windows vs. Linux**
+
+    Windows
+    
+Vantagem: Suporte e Compatibilidade. Windows tem ampla compatibilidade com uma vasta gama de hardware e software. A maioria dos aplicativos comerciais, jogos e drivers são desenvolvidos principalmente para Windows, o que pode facilitar a integração e o uso de diversos produtos e serviços. Além disso, a Microsoft oferece suporte técnico e atualizações regulares, o que pode ser vantajoso para usuários e empresas.
+<br>
+<br>
+Desvantagem: Custo.  O Windows frequentemente requer licenças pagas, tanto para o sistema operacional em si quanto para muitas de suas atualizações e ferramentas associadas. Esse custo pode ser uma desvantagem significativa, especialmente para usuários ou organizações que buscam opções mais econômicas.
+
+    Linux
+
+Vantagem: Custo e Flexibilidade. Linux é um sistema operacional de código aberto e geralmente gratuito. Isso o torna uma opção atraente para muitos usuários e organizações que buscam minimizar custos. Além disso, Linux oferece uma grande flexibilidade e personalização, permitindo que os usuários e desenvolvedores modifiquem e adaptem o sistema operacional às suas necessidades específicas.
+<br>
+<br>
+Desvantagem: Compatibilidade e Suporte. Embora o Linux esteja ganhando cada vez mais compatibilidade com hardware e software, ainda pode haver limitações em termos de suporte para alguns aplicativos e drivers, especialmente em comparação com o Windows. A falta de suporte oficial para alguns aplicativos e a necessidade de configurações adicionais para compatibilidade podem ser desafios para alguns usuários e empresas.
