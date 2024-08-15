@@ -31,3 +31,17 @@ Vantagem: Facilidade de Desenvolvimento. A sintaxe concisa e legível de Python 
 <br>
 <br>
 Desvantagem: Desempenho. Python pode ter um desempenho inferior em comparação com Java devido à sua natureza interpretada e ao uso de tipos dinâmicos. Isso pode ser uma limitação para aplicações que precisam de alta performance, onde a verbosidade e o desempenho superior de Java podem ser mais vantajosos.
+
+**Android vs. IOS**
+
+    Android
+
+Vantagem: Flexibilidade e Personalização. Android oferece uma grande flexibilidade em termos de personalização e configuração. Os desenvolvedores podem modificar a interface do usuário, utilizar uma ampla gama de APIs e ter acesso mais profundo ao sistema operacional. Além disso, o Android permite que os usuários personalizem seus dispositivos com diferentes lançadores (launchers), widgets e configurações avançadas.
+<br>
+<br>
+Desvantagem: Fragmentação. A grande variedade de dispositivos e versões do Android pode levar a problemas de fragmentação. Aplicações podem precisar ser testadas em diferentes dispositivos e versões do sistema operacional para garantir compatibilidade e desempenho consistente. Isso pode aumentar o custo e o tempo de desenvolvimento e testes.
+
+    IOS
+
+Vantagem: Consistência e Qualidade. iOS oferece um ambiente mais controlado e uniforme, com uma experiência de usuário consistente em todos os dispositivos Apple. A Apple controla rigorosamente o hardware e o software, o que pode resultar em uma maior estabilidade e qualidade das aplicações. Isso também pode reduzir problemas de compatibilidade e facilitar o desenvolvimento e testes.
+Desvantagem: Menos Flexibilidade. iOS é menos flexível em termos de personalização e configuração comparado ao Android. Os desenvolvedores têm menos liberdade para modificar a interface do usuário e acessar certas funcionalidades do sistema. Os usuários também têm opções limitadas para personalizar seus dispositivos, o que pode ser uma desvantagem para aqueles que preferem maior controle sobre suas experiências.
