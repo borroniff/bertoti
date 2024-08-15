@@ -13,3 +13,17 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 ## Comentário 
 
 O texto diferencia programação de engenharia de software, explicando que a programação cria software, enquanto a engenharia de software abrange o desenvolvimento, modificação e manutenção ao longo do tempo. Em resumo, engenharia de software integra a programação com uma visão de longo prazo.
+
+# Aula 3
+
+## Exemplos de trade-offs com requisitos não funcionais
+
+**Java vs. Python**
+
+    Java
+Vantagem: Desempenho. Java tem um desempenho geralmente superior devido à sua compilação para bytecode e execução otimizada na JVM. Isso pode ser crucial para aplicações que exigem alta performance, como sistemas grandes e aplicativos de servidores.
+Desvantagem: Dificuldade de desenvolvimento. Verbosidade: O código Java é muitas vezes mais verboso, o que pode resultar em um aumento no tempo de desenvolvimento e manutenção do código. A necessidade de escrever mais código pode tornar o processo mais complexo e menos ágil.
+
+    Python
+Vantagem: Facilidade de Desenvolvimento. A sintaxe concisa e legível de Python permite uma rápida prototipagem e desenvolvimento. Isso contrasta com a verbosidade de Java, facilitando o desenvolvimento e a manutenção de código. A simplicidade de Python pode acelerar o desenvolvimento e reduzir o tempo de trabalho.
+Desvantagem: Desempenho. Python pode ter um desempenho inferior em comparação com Java devido à sua natureza interpretada e ao uso de tipos dinâmicos. Isso pode ser uma limitação para aplicações que precisam de alta performance, onde a verbosidade e o desempenho superior de Java podem ser mais vantajosos.
