@@ -32,6 +32,8 @@ Vantagem: Facilidade de Desenvolvimento. A sintaxe concisa e legível de Python 
 <br>
 Desvantagem: Desempenho. Python pode ter um desempenho inferior em comparação com Java devido à sua natureza interpretada e ao uso de tipos dinâmicos. Isso pode ser uma limitação para aplicações que precisam de alta performance, onde a verbosidade e o desempenho superior de Java podem ser mais vantajosos.
 
+------------------------------------------------------------------------------------------
+
 **Android vs. IOS**
 
     Android
@@ -44,4 +46,6 @@ Desvantagem: Fragmentação. A grande variedade de dispositivos e versões do An
     IOS
 
 Vantagem: Consistência e Qualidade. iOS oferece um ambiente mais controlado e uniforme, com uma experiência de usuário consistente em todos os dispositivos Apple. A Apple controla rigorosamente o hardware e o software, o que pode resultar em uma maior estabilidade e qualidade das aplicações. Isso também pode reduzir problemas de compatibilidade e facilitar o desenvolvimento e testes.
+<br>
+<br>
 Desvantagem: Menos Flexibilidade. iOS é menos flexível em termos de personalização e configuração comparado ao Android. Os desenvolvedores têm menos liberdade para modificar a interface do usuário e acessar certas funcionalidades do sistema. Os usuários também têm opções limitadas para personalizar seus dispositivos, o que pode ser uma desvantagem para aqueles que preferem maior controle sobre suas experiências.
