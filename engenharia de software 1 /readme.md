@@ -74,6 +74,8 @@ Desvantagem: Compatibilidade e Suporte. Embora o Linux esteja ganhando cada vez 
 
 **Netflix**
 
+![WhatsApp Image 2024-08-15 at 11 56 36](https://github.com/user-attachments/assets/4574b7cb-b9f6-4a47-b571-5cfe33ecb863)
+
     Escalabilidade
 
 Vantagem: A Netflix é projetada para lidar com uma enorme quantidade de usuários e dados. Ela usa uma arquitetura distribuída e microserviços para escalar facilmente à medida que a demanda aumenta, garantindo um bom desempenho e disponibilidade global.
