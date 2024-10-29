@@ -96,3 +96,5 @@ Desvantagem: A complexidade adicionada pode levar a desafios na coordenação e 
 Diagrama de classes UML: Sistema de Gerenciamento de Biblioteca
 
 <img src = "https://github.com/borroniff/bertoti/blob/main/engenharia%20de%20software%201%20/DiagramaUML/BibliotecaUML.jpg" >
+
+[Clique aqui para acessar o código em Java!](https://github.com/borroniff/bertoti/tree/main/engenharia%20de%20software%201%20/DiagramaUML/BibliotecaBertoti)
