@@ -3,8 +3,7 @@
 We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
 ## Comentário
-Há diferenças entre programar e a engenharia de software, sendo elas baseadas principalmente no tempo, na escala e nos trade-offs, que se relacionam com necessidade de mudança
-e decisões complexas, eficiência, estimativas e crescimento do projeto.
+A engenharia de software, embora compartilhe semelhanças com a programação, possui características próprias. Ela lida principalmente com aspectos como tempo, escala e trade-offs, além de exigir decisões complexas baseadas em estimativas incertas. O papel do engenheiro de software envolve selecionar linguagens e tecnologias que não apenas atendam às demandas imediatas, mas também suportem futuras melhorias, independentemente de sua complexidade. A tecnologia escolhida precisa oferecer um bom desempenho e capacidade de escalabilidade, o que torna o processo de decisão desafiador. Muitas vezes, essa escolha pode implicar em maiores investimentos iniciais, mas seu retorno tende a ser rápido, graças à eficiência da solução em resolver o problema proposto.
 
 # Exercício 2
 
@@ -12,11 +11,11 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 
 ## Comentário 
 
-O texto diferencia programação de engenharia de software, explicando que a programação cria software, enquanto a engenharia de software abrange o desenvolvimento, modificação e manutenção ao longo do tempo. Em resumo, engenharia de software integra a programação com uma visão de longo prazo.
+A engenharia de software vai além da programação, embora esta seja uma parte essencial. Ela envolve não apenas a criação de um software, mas também seu desenvolvimento, modificação e manutenção. O engenheiro de software deve pensar nas melhores tecnologias para cada funcionalidade, garantindo que diferentes partes da aplicação se comuniquem bem entre si. Além disso, é importante considerar se as soluções adotadas são escaláveis e adequadas para demandas futuras, indo além da opção mais simples ou barata. A engenharia de software também abrange a documentação do que o sistema precisa fazer, como ele fará isso, e a definição de requisitos e regras de negócio para garantir um desenvolvimento coeso e eficiente.
 
 # Exercício 3
 
-# Exemplos de trade-offs com requisitos não funcionais
+## Exemplos de trade-offs com requisitos não funcionais
 
 **Java vs. Python**
 
@@ -89,3 +88,9 @@ Vantagem: A arquitetura complexa permite à Netflix oferecer uma experiência de
 <br>
 <br>
 Desvantagem: A complexidade adicionada pode levar a desafios na coordenação e integração dos serviços, problemas de gerenciamento e maior dificuldade para resolver bugs e falhas.
+
+# Exercício 5
+
+## Fazer classes UML ao lado de código java mostrando a relação entre eles
+
+Diagrama de classes UML: Sistema de Gerenciamento de Biblioteca
