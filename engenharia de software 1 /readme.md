@@ -94,3 +94,5 @@ Desvantagem: A complexidade adicionada pode levar a desafios na coordenação e 
 ## Fazer classes UML ao lado de código java mostrando a relação entre eles
 
 Diagrama de classes UML: Sistema de Gerenciamento de Biblioteca
+
+<img src = "https://github.com/borroniff/bertoti/blob/main/engenharia%20de%20software%201%20/DiagramaUML/BibliotecaUML.jpg" >
