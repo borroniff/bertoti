@@ -1,0 +1,32 @@
+@startuml
+title Diagrama de Anti-Padrão - Observer
+
+class LeitorEmail {
+  - email: String
+  + enviarEmailComNoticia(noticia: String): void
+}
+
+class LeitorSMS {
+  - telefone: String
+  + enviarSMSComNoticia(noticia: String): void
+}
+
+class RevistaAntipadrao {
+  - leitorEmail: LeitorEmail
+  - leitorSMS: LeitorSMS
+  - ultimaEdicao: String
+  + publicarNovaEdicao(edicao: String): void
+}
+
+RevistaAntipadrao --> LeitorEmail : depende diretamente de
+RevistaAntipadrao --> LeitorSMS : depende diretamente de
+
+note bottom of RevistaAntipadrao
+  O Subject está fortemente acoplado aos
+  "observadores" concretos. Para adicionar
+  um novo tipo de notificação (ex: App),
+  a classe RevistaAntipadrao precisa ser
+  alterada.
+end note
+
+@enduml
