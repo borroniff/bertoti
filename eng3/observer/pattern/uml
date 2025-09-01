@@ -1,0 +1,31 @@
+@startuml
+title Diagrama de Padrão - Observer
+
+interface Assinante {
+  + receberNoticia(noticia: String): void
+}
+
+class Leitor implements Assinante {
+  - nome: String
+  + receberNoticia(noticia: String): void
+}
+
+class Revista {
+  - assinantes: List<Assinante>
+  - ultimaEdicao: String
+  + registrarAssinante(assinante: Assinante): void
+  + removerAssinante(assinante: Assinante): void
+  + notificarAssinantes(): void
+  + publicarNovaEdicao(edicao: String): void
+}
+
+Revista "1" o-- "0..*" Assinante : notifica >
+
+note right of Revista
+  O Subject (Revista) mantém uma
+  lista de Observers e os notifica
+  sem conhecer suas classes concretas,
+  apenas a interface.
+end note
+
+@enduml
