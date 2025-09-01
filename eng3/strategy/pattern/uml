@@ -1,0 +1,30 @@
+@startuml
+title Diagrama de Padrão - Strategy
+
+interface CalculadoraFrete {
+  + calcular(peso: double): double
+}
+
+class FreteNormal implements CalculadoraFrete {
+  + calcular(peso: double): double
+}
+
+class FreteExpresso implements CalculadoraFrete {
+  + calcular(peso: double): double
+}
+
+class Pedido {
+  - calculadoraFrete: CalculadoraFrete
+  + setCalculadoraFrete(calculadora: CalculadoraFrete): void
+  + calcularFrete(peso: double): double
+}
+
+Pedido o--> CalculadoraFrete : usa
+
+note right of Pedido
+  O Contexto (Pedido) delega o cálculo
+  para um objeto Strategy sem saber
+  qual algoritmo específico está em uso.
+end note
+
+@enduml
