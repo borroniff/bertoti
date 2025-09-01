@@ -1,0 +1,16 @@
+@startuml
+title Diagrama de Anti-Padrão - Strategy
+
+class PedidoAntipadrao {
+  + calcularFrete(tipoFrete: String, peso: double): double
+}
+
+note right of PedidoAntipadrao
+  A lógica de decisão está acoplada
+  dentro da classe principal.
+  Adicionar um novo tipo de frete
+  exige modificar este método, violando
+  o Princípio Aberto/Fechado.
+end note
+
+@enduml
